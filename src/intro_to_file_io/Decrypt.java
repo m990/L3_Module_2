@@ -76,3 +76,4 @@ public class Decrypt implements ActionListener {
 		}
 	}
 }
+// Copyright (c) Max Norman 2018

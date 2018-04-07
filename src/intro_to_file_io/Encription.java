@@ -51,3 +51,4 @@ public class Encription implements ActionListener {
 		}
 	}
 }
+// Copyright (c) Max Norman 2018

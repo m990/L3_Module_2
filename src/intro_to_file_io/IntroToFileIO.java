@@ -71,3 +71,4 @@ public class IntroToFileIO {
 		}
 	}
 }
+// Copyright (c) Max Norman 2018
